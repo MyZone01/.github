@@ -3,6 +3,7 @@
 
 #  Projects
 +  🗨️ [FORUM](https://github.com/MyZone01/forum)
++  🏍️ [TRON](https://github.com/MyZone01/tron)
 +  ⚙️ [NETFIX](https://github.com/MyZone01/netfix)
 +  🖥️ [SYSTEM-MONITOR](https://github.com/MyZone01/system-monitor)
 +  🔀 [PUSH-SWAP](https://github.com/MyZone01/push-swap)
