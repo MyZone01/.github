@@ -18,6 +18,7 @@
 +  🤖 [COREWAR](https://github.com/MyZone01/corewar)
 +  🏊‍♂️ [PISCINE-GO](https://github.com/MyZone01/piscine-go)
 +  🏊‍♂️ [PISCINE-JS](https://github.com/MyZone01/piscine-js)
++  🏊‍♂️ [PISCINE-AI](https://github.com/MyZone01/piscine-ai)
 +  ◽ [TETRIS-OPTIMIZER](https://github.com/MyZone01/tetris-optimizer)
 +  🔢 [MATH-SKILLS](https://github.com/MyZone01/math-skills)
 +  ❔ [GUESS-IT-1](https://github.com/MyZone01/guess-it-1)
