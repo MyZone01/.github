@@ -1,9 +1,9 @@
 # Hi there 👋
-##  Welcome to my ZONE01's journey
+##  Welcome to my ZONE0️⃣1️⃣'s journey
 
 #  Projects
 +  💬 [REAL-TIME-FORUM](https://github.com/MyZone01/real-time-forum)
-+  🎮 [MAKE-YOUR-GAME](https://github.com/MyZone01/make-you-game)
++  💣 [BOMBERMAN](https://github.com/MyZone01/make-your-game)
 +  🗨️ [FORUM](https://github.com/MyZone01/forum)
 +  🏍️ [TRON](https://github.com/MyZone01/tron)
 +  ⚙️ [NETFIX](https://github.com/MyZone01/netfix)
@@ -25,4 +25,3 @@
 +  🔢 [MATH-SKILLS](https://github.com/MyZone01/math-skills)
 +  ❔ [GUESS-IT-1](https://github.com/MyZone01/guess-it-1)
 +  🏧 [ATM-MANAGEMENT-SYSTEM](https://github.com/MyZone01/atm-management-system)
-+  💣 [BOMBERMAN](https://github.com/MyZone01/make-your-game)
