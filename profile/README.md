@@ -1,5 +1,5 @@
 # Hi there 👋
-##  Welcome to my ZONE01 roadmap
+##  Welcome to my ZONE01's journey
 
 #  Projects
 +  🗨️ [FORUM](https://github.com/MyZone01/forum)
